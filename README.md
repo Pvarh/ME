@@ -1,24 +1,5 @@
-Introduction
+
 Name: Peter Varhalik
-Profession: Data Analyst / Enthusiast
-Interests: Deep Dive into Data Analytics and Exploring the Great Outdoors through Hiking
-About Me
-Brief introduction about your background in data analytics.
-Mention any relevant degrees or certifications.
-Share your passion for data, what intrigues you about it, and how you use it in your daily life.
-Touch on your love for hiking and nature, and how it complements your analytical mindset.
-Data Analytics
-
-
-
-User
-just make up some random pc intrests 
-ChatGPT
-Sure, I'll create a README with some hypothetical interests in PC (personal computing) and technology. Here's an example:
-
-README for John Doe
-Introduction
-Name: John Doe
 Profession: Tech Enthusiast & Software Developer
 Interests: Building Custom PCs, Developing Software, and Exploring Emerging Technologies
 About Me
